@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rammsanker54
 - 👀 I’m interested in ...developing
 - 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on ....
 📫 How to reach. Me
 <!---
 rammsanker54/rammsanker54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
